@@ -1,0 +1,89 @@
+
+22:50:03.052 [info] Loading 163 CA(s) from :otp store
+
+22:50:03.273 id=1 [debug] handled request client -> server initialize in 160ms
+
+22:50:03.280 [debug] sent notification server -> client window/logMessage
+
+22:50:03.284 [debug] NextLS v0.23.3 has initialized!
+
+22:50:03.284 [debug] sent notification server -> client window/logMessage
+
+22:50:03.284 [debug] Log file located at /Users/stanwielga/Code/hangman/dictionary/lib/.elixir-tools/next-ls.log
+
+22:50:03.288 [debug] sent notification server -> client window/logMessage
+
+22:50:03.288 [info] [extension] Credo initializing with options %NextLS.InitOpts.Extensions.Credo{enable: true, cli_options: []}
+
+22:50:06.058 [debug] sent notification server -> client window/logMessage
+
+22:50:06.058 [debug] Booting runtimes...
+
+22:50:06.064 id=103 [debug] sent request server -> client window/workDoneProgress/create
+
+22:50:06.072 [debug] sent notification server -> client $/progress
+
+22:50:06.097 [debug] sent notification server -> client window/logMessage
+
+22:50:06.097 [info] Beginning DB migration...
+
+22:50:06.109 [debug] sent notification server -> client window/logMessage
+
+22:50:06.109 [info] Database is on the latest version: 7
+
+22:50:06.109 [debug] sent notification server -> client window/logMessage
+
+22:50:06.109 [info] Finished DB migration...
+
+22:50:06.109 [debug] sent notification server -> client window/logMessage
+
+22:50:06.109 [info] Booting runtime for dictionary.
+
+- elixir: /usr/local/bin/elixir
+- zombie wrapper script: /Users/stanwielga/Library/Application Support/.burrito/next_ls_erts-15.2_0.23.3/lib/next_ls-0.23.3/priv/cmd
+- working_dir: /Users/stanwielga/Code/hangman/dictionary
+- command: /usr/local/bin/elixir --no-halt --sname nextls-runtime-1752897006109521979 --cookie B5KWOZJIEP7TC5LDWAQBZUILE3M23QPWYKPSADNHECVNH73HK4LA==== -S mix loadpaths --no-compile
+
+Environment: 
+
+LSP=nextls
+NEXTLS_PARENT_PID=g1h3IW5leHQtbHMtMTc1Mjg5NzAwMzA2ODQxMDg1OUBzdXBlcgAAAOIAAAAAaHsV7A==
+MIX_ENV=dev
+MIX_TARGET=host
+MIX_BUILD_ROOT=.elixir-tools/_build
+ROOTDIR=false
+BINDIR=false
+RELEASE_ROOT=false
+RELEASE_SYS_CONFIG=false
+PATH=/usr/local/bin:/Users/stanwielga/Library/Application Support/.burrito/next_ls_erts-15.2_0.23.3/bin:/Users/stanwielga/.local/share/lvim/mason/bin:/Users/stanwielga/.deno/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/stanwielga/.local/bin:/Users/stanwielga/.cargo/bin:/Applications/iTerm.app/Contents/Resources/utilities
+
+
+22:50:06.110 [debug] handled notification client -> server initialized in 2834ms
+
+22:50:06.117 [debug] handled notification client -> server textDocument/didOpen in 7ms
+
+22:50:07.126 [debug] sent notification server -> client window/logMessage
+
+22:50:07.126 [info] Connected to node nextls-runtime-1752897006109521979@super
+
+22:50:08.056 [debug] sent notification server -> client $/progress
+
+22:50:08.060 [debug] sent notification server -> client window/logMessage
+
+22:50:08.060 [debug] Runtime for folder dictionary is ready...
+
+22:50:08.064 id=98 [debug] sent request server -> client window/workDoneProgress/create
+
+22:50:08.065 [debug] sent notification server -> client $/progress
+
+22:50:08.108 [debug] sent notification server -> client $/progress
+
+22:50:08.108 [debug] sent notification server -> client window/logMessage
+
+22:50:08.108 [info] Compiled dictionary!
+
+22:50:20.542 id=2 [debug] handled request client -> server shutdown in 1ms
+
+22:50:20.570 [debug] sent notification server -> client window/logMessage
+
+22:50:20.570 [info] The runtime for dictionary has successfully shut down.
